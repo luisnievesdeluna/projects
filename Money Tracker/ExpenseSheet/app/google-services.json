@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971630552869",
+    "project_id": "expensesheet-83413",
+    "storage_bucket": "expensesheet-83413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971630552869:android:43e04b408d83e69f351ccc",
+        "android_client_info": {
+          "package_name": "com.example.expensesheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971630552869-d98of78ve6ffgfr0ic4mk1j9dtl6ksl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAx58Q3NiheUqPB1QrPfHLK-MrmuFigGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971630552869-d98of78ve6ffgfr0ic4mk1j9dtl6ksl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
